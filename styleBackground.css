@@ -26,6 +26,14 @@ h3 {
     letter-spacing: 0.01em;
 
 }
+@media only screen and (max-width: 600px) {
+    body {
+        font-size: 0.5em;
+        padding: 0;
+    }
+}
+
+
 .color1 , .color2{
     width: 80px;
     height: 30px; 
